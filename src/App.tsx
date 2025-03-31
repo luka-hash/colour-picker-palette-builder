@@ -66,7 +66,7 @@ function App() {
                 ${isDragging ? "bg-blue-300" : "bg-blue-500"}
                 rounded cursor-pointer hover:bg-blue-600`}
             >
-              Drop files here or click to upload
+              Drop an image here or click to upload
               <input
                 type="file"
                 accept="image/*"
